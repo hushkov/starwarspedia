@@ -36,7 +36,7 @@ const Planets = () => {
       >
         Next page
       </button>
-      {(isLoading || isFetching) && <div>Loading ...</div>}
+      {(isLoading || isFetching) && <div className="loading">Loading ...</div>}
       {isError && <div>Error fetching data</div>}
       {data && (
         <div>

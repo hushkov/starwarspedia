@@ -49,3 +49,6 @@ button:disabled {
   opacity: 0.2;
   cursor: not-allowed;
 }
+.loading {
+  display: inline-block;
+}
