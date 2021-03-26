@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starwarspedia/static/css/main.a3ad0aad.chunk.css",
+    "main.js": "/starwarspedia/static/js/main.148eac17.chunk.js",
+    "main.js.map": "/starwarspedia/static/js/main.148eac17.chunk.js.map",
+    "runtime-main.js": "/starwarspedia/static/js/runtime-main.f0d06e61.js",
+    "runtime-main.js.map": "/starwarspedia/static/js/runtime-main.f0d06e61.js.map",
+    "static/js/2.0720df67.chunk.js": "/starwarspedia/static/js/2.0720df67.chunk.js",
+    "static/js/2.0720df67.chunk.js.map": "/starwarspedia/static/js/2.0720df67.chunk.js.map",
+    "index.html": "/starwarspedia/index.html",
+    "static/css/main.a3ad0aad.chunk.css.map": "/starwarspedia/static/css/main.a3ad0aad.chunk.css.map",
+    "static/js/2.0720df67.chunk.js.LICENSE.txt": "/starwarspedia/static/js/2.0720df67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d06e61.js",
+    "static/js/2.0720df67.chunk.js",
+    "static/css/main.a3ad0aad.chunk.css",
+    "static/js/main.148eac17.chunk.js"
+  ]
+}
